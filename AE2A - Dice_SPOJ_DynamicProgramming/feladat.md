@@ -1,4 +1,4 @@
-# Feladat: Jack Telekinetikus Képességei
+# [Feladat: Jack Telekinetikus Képességei](https://www.spoj.com/problems/AE2A/)
 
 Jack azt állítja, hogy telekinetikus képességei vannak. Fogadást kötött Mike-kal, hogy ha dob egy \( n \)-szeres kockával, az eredmény pontosan \( k \) lesz. A kockájának 6 oldala van, amelyeken az 1-től 6-ig terjedő számok szerepelnek, és tökéletesen szimmetrikus.
 
